@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * _isalpha - verifica si un carácter es una letra
- * @c: el carácter a verificar
+ * _isalpha - checks if a character is a letter
+ * @c: the character to be checked
  *
- * Return: 1 si c es una letra, 0 en caso contrario
+ * Return: 1 if c is a letter, 0 otherwise
  */
 
 int _isalpha(int c)
